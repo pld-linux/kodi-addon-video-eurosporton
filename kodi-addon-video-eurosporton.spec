@@ -6,7 +6,7 @@
 Summary:	Proof-of-concept Kodi plugin for Eurosport Player
 Name:		kodi-addon-video-eurosporton
 Version:	0.2.3
-Release:	1
+Release:	2
 License:	MIT
 Group:		Applications/Multimedia
 Source0:	https://github.com/sterd71/plugin.video.eurosporton/archive/v%{version}-k%{kodi_ver}-Oly/%{version}-%{codename}.tar.gz
